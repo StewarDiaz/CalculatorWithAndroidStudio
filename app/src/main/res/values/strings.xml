@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_signoDividir">/</string>
+    <string name="label_signoIgual">=</string>
+    <string name="label_signoPor">*</string>
+    <string name="label_signoMas">+</string>
+    <string name="label_signoMenos">-</string>
+    <string name="label_signoborrar">{= </string>
+</resources>
